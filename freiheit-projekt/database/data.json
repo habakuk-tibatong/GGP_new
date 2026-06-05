@@ -1,0 +1,30 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "tibatong",
+      "class": "Q12",
+      "pin": "1234",
+      "total_xp": 50,
+      "last_activity": "2026-06-02T17:29:59.656Z"
+    }
+  ],
+  "progress": [
+    {
+      "student_id": 1,
+      "chapter_id": "libet",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    }
+  ],
+  "reflections": [],
+  "badges": [
+    {
+      "student_id": 1,
+      "badge_id": "libet_done",
+      "earned_at": "2026-06-02T17:29:59.656Z"
+    }
+  ],
+  "essays": []
+}

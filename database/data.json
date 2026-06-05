@@ -1,0 +1,111 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "tibatong",
+      "class": "Q12",
+      "pin": "1234",
+      "total_xp": 340,
+      "last_activity": "2026-06-03T14:25:30.253Z"
+    }
+  ],
+  "progress": [
+    {
+      "student_id": 1,
+      "chapter_id": "libet",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "qualia",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "kompatibilismus",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "neuro",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "gruende",
+      "completed": 1,
+      "xp_earned": 50,
+      "quiz_score": null
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "quiz",
+      "completed": 1,
+      "xp_earned": 40,
+      "quiz_score": 73
+    }
+  ],
+  "reflections": [
+    {
+      "student_id": 1,
+      "chapter_id": "qualia",
+      "kognitiv": "Qualia-Erklärungslücke",
+      "metakognitiv": "Lesen und Markieren, Quiz ausfüllen",
+      "motivational": "Es hat mich ziemlich bewegt, was Mary lernt...",
+      "sterne": 4,
+      "position_slider": 3,
+      "created_at": "2026-06-02T18:39:19.047Z"
+    },
+    {
+      "student_id": 1,
+      "chapter_id": "neuro",
+      "kognitiv": "gedöafdglk",
+      "metakognitiv": "daöfjkljdsfkljs",
+      "motivational": "aödkfjsdlkfa",
+      "sterne": 3,
+      "position_slider": 2,
+      "created_at": "2026-06-03T14:15:54.601Z"
+    }
+  ],
+  "badges": [
+    {
+      "student_id": 1,
+      "badge_id": "libet_done",
+      "earned_at": "2026-06-02T17:29:59.656Z"
+    },
+    {
+      "student_id": 1,
+      "badge_id": "qualia_done",
+      "earned_at": "2026-06-02T18:38:29.624Z"
+    },
+    {
+      "student_id": 1,
+      "badge_id": "kompatibilismus_done",
+      "earned_at": "2026-06-02T18:40:00.916Z"
+    },
+    {
+      "student_id": 1,
+      "badge_id": "neuro_done",
+      "earned_at": "2026-06-03T14:15:32.375Z"
+    },
+    {
+      "student_id": 1,
+      "badge_id": "gruende_done",
+      "earned_at": "2026-06-03T14:17:13.178Z"
+    },
+    {
+      "student_id": 1,
+      "badge_id": "all_done",
+      "earned_at": "2026-06-03T14:17:13.425Z"
+    }
+  ],
+  "essays": []
+}
